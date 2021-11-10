@@ -35,4 +35,3 @@ Options are also available for using Postgres/MySQL, uWSGI/Gunicorn/Guvicorn, et
 
 Again, see [Deploy a new django CMS project using the Divio quickstart
 repository](https://docs.divio.com/en/latest/how-to/django-cms-deploy-quickstart/) for more guidance on customisation.
-# djangocms
